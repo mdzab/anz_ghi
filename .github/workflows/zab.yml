@@ -1,8 +1,8 @@
-name: SimpleWorkflow
-on: push
-jobs:
-  my-new-job:
-    name: my new job
-    runs-on: windows_latest
-    steps:
-      - run: echo "Hello ANZ"
+# name: SimpleWorkflow
+# on: push
+# jobs:
+#   my-new-job:
+#     name: my new job
+#     runs-on: windows_latest
+#     steps:
+#       - run: echo "Hello ANZ"
